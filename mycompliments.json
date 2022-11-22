@@ -30,14 +30,14 @@
   "....-05-01": [
     "Happy Birthday, David"
   ],
-	day_sunny: [
-		"Today is a sunny day",
-		"It's a beautiful day"
-	],
-	snow: [
-		"Snowball battle!"
-	],
-	rain: [
-		"It's a rainy one today\nDon't forget your umbrella"
-	]
+  "day_sunny": [
+    "Today is a sunny day",
+    "It's a beautiful day"
+  ],
+  "snow": [
+    "Snowball battle!"
+  ],
+  "rain": [
+    "It's a rainy one today\nDon't forget your umbrella"
+  ]
 }
